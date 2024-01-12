@@ -1,4 +1,4 @@
-baseurl = "https://blog.bytewerk.io"
+baseurl = "https://bytewerk-cloud.github.io/io.bytewerk.blog/"
 title = "🦝 Gambits & Exploits"
 theme = "hugo-coder"
 languageCode = "en"
