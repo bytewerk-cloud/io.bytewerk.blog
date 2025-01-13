@@ -12,4 +12,4 @@
 
 ## Games
 
-- Coming soon™️
+- I've created a bunch of game jam distributions, but I'm currently working towards resurfacing a mobile game concept which I have not seen in the wilds for the past 15 years or so. I will share more information once I get it to a presentable state.
