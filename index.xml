@@ -1,2 +1,172 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>🦝 Gambits &amp; Exploits</title><link>/</link><description>Recent content on 🦝 Gambits &amp; Exploits</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 01 Nov 2023 13:20:31 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Enforce uniform code formatting across teams</title><link>/posts/uniform-code-formatting/</link><pubDate>Wed, 01 Nov 2023 13:20:31 +0100</pubDate><guid>/posts/uniform-code-formatting/</guid><description>Enforce uniform code formatting across teams Link to heading With the rise of language centric formatting tools like gofmt, it&amp;rsquo;s become easier than ever to achieve a holistic coding style across team members and projects, avoiding endless warfare over primeval subjective matters like white space after punctuation, tabs vs. Spaces, etc&amp;hellip; It also combats the cargo cult around style guides promoted by large tech companies (such as the AirBnB JS Guide) - although these are still around, they&amp;rsquo;ve become much more focused on overall code architecture and idiomatic usage of their governed language.</description></item><item><title/><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>Gambits and exploits in software engineering Link to heading More like my personal 🧠 dump really &amp;hellip; I keep forgetting things, so I decided to start writing some of it down in a constructive manner. Maybe some of it might proof interesting to you.
-This blog is open source and available at github. Feel free to reach out in case you have any questions, submit Pull Requests or simply fork and use for your own pleasure.</description></item><item><title/><link>/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/projects/</guid><description>Some of the projects I&amp;rsquo;ve been professionally involved with Link to heading Respiratory Diagnostics, real time measuring, data processing, hardware protocol design, hardware prototyping, reporting and more. Automatic loading and Smart Factory solutions, reaching from real time robotics and human security safeguard constraints to process automation, job scheduling and monitoring. Teach Online, a greenfield, globally distributed learning platform for teaching English around the world. ValutaChange, a greenfield startup project, opening up brand new markets for reward tokens and loyalty programs.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>🦝 Gambits &amp; Exploits</title><link>/</link><description>Recent content on 🦝 Gambits &amp; Exploits</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 13 Jan 2025 14:21:31 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome to the old web</title><link>/posts/welcome-to-the-old-web/</link><pubDate>Mon, 13 Jan 2025 14:21:31 +0100</pubDate><guid>/posts/welcome-to-the-old-web/</guid><description>&lt;h1 id="welcome-to-the-old-web">
+ Welcome to the old web
+ &lt;a class="heading-link" href="#welcome-to-the-old-web">
+ &lt;span class="sr-only">🔗&lt;/span>
+ &lt;/a>
+&lt;/h1>
+&lt;p>Recently, I came across &lt;a href="https://rknight.me/blog/the-web-is-fantastic/" class="external-link" target="_blank" rel="noopener">this beautiful blog post&lt;/a> by &lt;em>Robb Knight&lt;/em>, the idea of which I immediately subscribed to. I still vividly remember critizising the &lt;em>Web 2.0&lt;/em> movement when it started to emerge in the late 2000s, and every company suddenly advertising under a facebook link instead of a custom built, unique web experience.&lt;/p>
+&lt;p>I feel like things have started to shift back towards individual web pages again - slowly, gradually - but nonetheless. It&amp;rsquo;s a movement I embrace, as it requires the publisher to at least undergo a minimum amount of effort to share their thoughts, which in turn should lead to an increase in quality of content.&lt;/p></description></item><item><title>Enforce uniform code formatting across teams</title><link>/posts/uniform-code-formatting/</link><pubDate>Wed, 01 Nov 2023 13:20:31 +0100</pubDate><guid>/posts/uniform-code-formatting/</guid><description>&lt;h1 id="enforce-uniform-code-formatting-across-teams">
+ Enforce uniform code formatting across teams
+ &lt;a class="heading-link" href="#enforce-uniform-code-formatting-across-teams">
+ &lt;span class="sr-only">🔗&lt;/span>
+ &lt;/a>
+&lt;/h1>
+&lt;p>With the rise of language centric formatting tools like &lt;code>gofmt&lt;/code>, it&amp;rsquo;s become easier than ever to achieve a holistic coding style across team members and projects, avoiding endless warfare over primeval subjective matters like &lt;a href="https://xkcd.com/1285/" class="external-link" target="_blank" rel="noopener">white space after punctuation&lt;/a>, tabs vs. Spaces, etc&amp;hellip; It also combats the cargo cult around style guides promoted by large tech companies (such as the &lt;a href="https://github.com/airbnb/javascript" class="external-link" target="_blank" rel="noopener">AirBnB JS Guide&lt;/a>) - although these are still around, they&amp;rsquo;ve become much more focused on overall code architecture and idiomatic usage of their governed language.&lt;/p></description></item><item><title/><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;h1 id="gambits-and-exploits-in-software-engineering">
+ Gambits and exploits in software engineering
+ &lt;a class="heading-link" href="#gambits-and-exploits-in-software-engineering">
+ &lt;span class="sr-only">🔗&lt;/span>
+ &lt;/a>
+&lt;/h1>
+&lt;p>More like my personal 🧠 dump really &amp;hellip; I keep forgetting things, so I decided to start writing some of it down in a constructive manner. Maybe some of it might proof interesting to you.&lt;/p>
+&lt;p>This blog is open source and available at &lt;a href="https://github.com/bytewerk-cloud/io.bytewerk.blog" class="external-link" target="_blank" rel="noopener">github&lt;/a>. Feel free to reach out in case you have any questions, submit Pull Requests or simply fork and use for your own pleasure.&lt;/p></description></item><item><title/><link>/now/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/now/</guid><description>&lt;h1 id="what-im-doing-now-ish">
+ What I&amp;rsquo;m doing now(-ish)
+ &lt;a class="heading-link" href="#what-im-doing-now-ish">
+ &lt;span class="sr-only">🔗&lt;/span>
+ &lt;/a>
+&lt;/h1>
+&lt;p>For more information, see &lt;a href="https://nownownow.com/about" class="external-link" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
+&lt;h2 id="-personal">
+ 🙋 Personal
+ &lt;a class="heading-link" href="#-personal">
+ &lt;span class="sr-only">🔗&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Started picking up playing the Guitar again, which feels nice. I&amp;rsquo;m currently learning to play &lt;a href="https://www.youtube.com/watch?v=OS8taasZl8k" class="external-link" target="_blank" rel="noopener">Black Summer&lt;/a>.&lt;/li>
+&lt;li>Getting back into playing Warhammer 40k (yes! the tabletop!) with actual friends in physical stores again.&lt;/li>
+&lt;li>Still moving apartments, setting up our new place, and exploring the new environment.&lt;/li>
+&lt;/ul>
+&lt;h3 id="-listening">
+ 🎶 Listening
+ &lt;a class="heading-link" href="#-listening">
+ &lt;span class="sr-only">🔗&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://open.spotify.com/album/7BYMJZFCYuGKi2jblMhyxg" class="external-link" target="_blank" rel="noopener">John Frusciante - Shadows Collide With People&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://open.spotify.com/album/0xSOJ5d2cGkhtiSa2IXsKB" class="external-link" target="_blank" rel="noopener">Major Parkinson - A Night at the Library&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://open.spotify.com/album/5QWWYDyS6B1NocFe8V0tBq" class="external-link" target="_blank" rel="noopener">Autoheart - Live Me, Live Me, Live Me&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="-reading">
+ 📕 Reading
+ &lt;a class="heading-link" href="#-reading">
+ &lt;span class="sr-only">🔗&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Caliban%27s_War" class="external-link" target="_blank" rel="noopener">James S.A. Corey - Caliban&amp;rsquo;s War&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Foundation_%28book_series%29" class="external-link" target="_blank" rel="noopener">Isaav Asimov - Foundation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/The_Hydrogen_Sonata" class="external-link" target="_blank" rel="noopener">Iain M. Banks - The Hydrogen Sonata&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="-watching">
+ 🍿 Watching
+ &lt;a class="heading-link" href="#-watching">
+ &lt;span class="sr-only">🔗&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.imdb.com/title/tt11280740" class="external-link" target="_blank" rel="noopener">Severance&lt;/a>, Season 2 is out soon, don&amp;rsquo;t miss it!&lt;/p></description></item><item><title/><link>/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/projects/</guid><description>&lt;h1 id="some-of-the-projects-ive-been-professionally-involved-with">
+ Some of the projects I&amp;rsquo;ve been professionally involved with
+ &lt;a class="heading-link" href="#some-of-the-projects-ive-been-professionally-involved-with">
+ &lt;span class="sr-only">🔗&lt;/span>
+ &lt;/a>
+&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="https://www.ganshorn-medical.com/" class="external-link" target="_blank" rel="noopener">Respiratory Diagnostics&lt;/a>, real time measuring, data processing, hardware protocol design, hardware prototyping, reporting and more.&lt;/li>
+&lt;li>&lt;a href="https://www.erowa.com/en/smart-factory" class="external-link" target="_blank" rel="noopener">Automatic loading and Smart Factory solutions&lt;/a>, reaching from real time robotics and human security safeguard constraints to process automation, job scheduling and monitoring.&lt;/li>
+&lt;li>&lt;a href="https://ef.design/work/teach-online/" class="external-link" target="_blank" rel="noopener">Teach Online&lt;/a>, a greenfield, globally distributed learning platform for teaching English around the world.&lt;/li>
+&lt;li>&lt;a href="https://www.valutachange.de/" class="external-link" target="_blank" rel="noopener">ValutaChange&lt;/a>, a greenfield startup project, opening up brand new markets for reward tokens and loyalty programs.&lt;/li>
+&lt;li>&lt;a href="https://www.palomachain.com/" class="external-link" target="_blank" rel="noopener">Paloma&lt;/a>, a block chain protocol enabling users to distribute, administrate and execute smart contracts on numerous target chains from one single, governance backed ecosystem.&lt;/li>
+&lt;/ul>
+&lt;h1 id="my-private-projects">
+ My private projects
+ &lt;a class="heading-link" href="#my-private-projects">
+ &lt;span class="sr-only">🔗&lt;/span>
+ &lt;/a>
+&lt;/h1>
+&lt;ul>
+&lt;li>Lipwig, my custom and totally not naming rights infringing book keeping and invoicing solution for the Swiss market. I plan to open source it in the future, under a proper name.&lt;/li>
+&lt;/ul>
+&lt;h2 id="games">
+ Games
+ &lt;a class="heading-link" href="#games">
+ &lt;span class="sr-only">🔗&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>I&amp;rsquo;ve created a bunch of game jam distributions, but I&amp;rsquo;m currently working towards resurfacing a mobile game concept which I have not seen in the wilds for the past 15 years or so. I will share more information once I get it to a presentable state.&lt;/li>
+&lt;/ul></description></item><item><title/><link>/uses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/uses/</guid><description>&lt;h1 id="uses">
+ Uses
+ &lt;a class="heading-link" href="#uses">
+ &lt;span class="sr-only">🔗&lt;/span>
+ &lt;/a>
+&lt;/h1>
+&lt;p>For more information, see &lt;a href="https://uses.tech/" class="external-link" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
+&lt;h2 id="operating-systems">
+ Operating Systems
+ &lt;a class="heading-link" href="#operating-systems">
+ &lt;span class="sr-only">🔗&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://i.redd.it/yf4j8mde9n341.jpg" class="external-link" target="_blank" rel="noopener">&lt;em>I use Arch by the way&lt;/em>&lt;/a>, mainly because for me, it is the best compromise between ease of use and being able to setup a small console system with minimal dependencies. I also appreciate the bleeding edge and AUR stuff, though it can cause problems.&lt;/li>
+&lt;li>Lately though, I&amp;rsquo;ve been toying with the idea of exploring &lt;a href="https://nixos.org/" class="external-link" target="_blank" rel="noopener">Nix&lt;/a> or &lt;a href="https://www.freebsd.org/" class="external-link" target="_blank" rel="noopener">FreeBSD&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;h2 id="hardware">
+ Hardware
+ &lt;a class="heading-link" href="#hardware">
+ &lt;span class="sr-only">🔗&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>i7-12700K, mostly because it was still the best option for single core performance when it came out.&lt;/li>
+&lt;li>GeForce 1080 TI, because it simply won&amp;rsquo;t break.&lt;/li>
+&lt;li>ASUS TUF GAMING Z690-PLUS WIFI D4, for those sweet gaming benefits and RGBlingbling.&lt;/li>
+&lt;li>64GB of RAM, because have you tried to run Zoom, Discord, Slack and Chrome at the same time?&lt;/li>
+&lt;li>Fractal Design Define 7, because I love their aesthetic.&lt;/li>
+&lt;li>Some old Zowie FK1 that I hope never dies, because I&amp;rsquo;ve grown very fond of it and it&amp;rsquo;s basically out of production nowadays.&lt;/li>
+&lt;li>Keychron Q1, because I enjoy the layout, and native VIA support is a killer feature for me. Every time I need some archaic incantation, I simply setup a new key code in the GUI and I&amp;rsquo;m done. I seriously cannot stress enough how much I enjoy being able to map any functionality to any of my keys. I will never be able to go back again from this.&lt;/li>
+&lt;/ul>
+&lt;h2 id="software">
+ Software
+ &lt;a class="heading-link" href="#software">
+ &lt;span class="sr-only">🔗&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://hyprland.org/" class="external-link" target="_blank" rel="noopener">Hyprland&lt;/a>, mainly because I wanted to push the envelope by leaving X11 behind and finally moving on to Wayland, over 10 years of reading about how it was &amp;ldquo;now the new standard&amp;rdquo;&amp;hellip; I also appreciate the customizability. For me, it features the best of both worlds of tiling and floating WMs.&lt;/li>
+&lt;li>&lt;a href="https://github.com/hyprwm/hyprpaper" class="external-link" target="_blank" rel="noopener">Hyprpaper&lt;/a>, &lt;a href="https://github.com/hyprwm/hyprlock" class="external-link" target="_blank" rel="noopener">Hyprlock&lt;/a>, &lt;a href="https://github.com/hyprwm/hypridle" class="external-link" target="_blank" rel="noopener">https://github.com/hyprwm/hypridle&lt;/a> &amp;hellip; You get the idea.&lt;/li>
+&lt;li>&lt;a href="https://sw.kovidgoyal.net/kitty/" class="external-link" target="_blank" rel="noopener">kitty&lt;/a>, because it&amp;rsquo;s fast, supports ligatures and has a lot of features like built-in multiplexing that I&amp;rsquo;ve grown to like.&lt;/li>
+&lt;li>&lt;code>neovim&lt;/code>, &lt;del>because I&amp;rsquo;m a masochist&lt;/del> because &lt;code>emacs&lt;/code> is simply too much for my endevours. I used to run my own setup, but have lately moved on to &lt;a href="https://www.lazyvim.org/" class="external-link" target="_blank" rel="noopener">lazyvim&lt;/a>, mainly because it&amp;rsquo;s fast, highly customizable and I don&amp;rsquo;t have to worry about breaking changes.&lt;/li>
+&lt;li>&lt;a href="https://github.com/sxyazi/yazi" class="external-link" target="_blank" rel="noopener">yazi&lt;/a>, because midnight commander made my terminal crash more than once.&lt;/li>
+&lt;li>&lt;a href="https://github.com/aome510/spotify-player" class="external-link" target="_blank" rel="noopener">spotify_player&lt;/a>, because I like not having to pick up the mouse to interact with my listening experience.&lt;/li>
+&lt;li>&lt;a href="https://www.mozilla.org/de/firefox/" class="external-link" target="_blank" rel="noopener">Firefox&lt;/a>, because I don&amp;rsquo;t like Chrome, and Mozilla has really stepped up their game again over the past 5 years or so. Also, it&amp;rsquo;s basically the only realistic alternative to Chrome (no, webkit does not count).&lt;/li>
+&lt;li>&lt;a href="https://www.chromium.org/" class="external-link" target="_blank" rel="noopener">Chromium&lt;/a>, because some of the pages I need to use for work are simply not compatible with Firefox. Looking at you there, &lt;a href="https://www.figma.com" class="external-link" target="_blank" rel="noopener">Figma&lt;/a>&amp;hellip;&lt;/li>
+&lt;li>&lt;a href="https://obsidian.md/" class="external-link" target="_blank" rel="noopener">Obsidian&lt;/a>, because I like the idea of having my notes in a markdown format that I can easily access and edit with any text editor. The plugin support is fcantastic, but I&amp;rsquo;m still looking for a reliable way to sync across devices, especially IOS.&lt;/li>
+&lt;li>&lt;a href="https://godotengine.org/" class="external-link" target="_blank" rel="noopener">Godot&lt;/a>, because I like the open source approach, as well as the community.&lt;/li>
+&lt;li>&lt;a href="https://store.steampowered.com" class="external-link" target="_blank" rel="noopener">Steam&lt;/a> and &lt;a href="https://heroicgameslauncher.com/" class="external-link" target="_blank" rel="noopener">Heroic&lt;/a> for gaming.&lt;/li>
+&lt;/ul>
+&lt;h2 id="tech-stacks">
+ Tech Stacks
+ &lt;a class="heading-link" href="#tech-stacks">
+ &lt;span class="sr-only">🔗&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://go.dev/" class="external-link" target="_blank" rel="noopener">Go&lt;/a>, because it&amp;rsquo;s easy to pick up and enables me to program in a large variety of paradigms. It&amp;rsquo;s well supported and I get shit done.&lt;/li>
+&lt;li>&lt;a href="https://www.rust-lang.org/" class="external-link" target="_blank" rel="noopener">Rust&lt;/a>, because I like a language that prevents me from doing stupid things.&lt;/li>
+&lt;li>&lt;a href="https://htmx.org/" class="external-link" target="_blank" rel="noopener">htmx&lt;/a> and &lt;a href="https://alpinejs.dev/" class="external-link" target="_blank" rel="noopener">alpine.js&lt;/a> for frontend stuff, because it feels like the best compromise between feature rich, modern web development while keeping bloat to an absolute minimum. Also, HATEOAS just reminds me of my youth, before someone decided JS was a great idea for backends.&lt;/li>
+&lt;li>&lt;code>python&lt;/code> for everything else, mostly because you cannot escape it these days.&lt;/li>
+&lt;/ul>
+&lt;h2 id="other">
+ Other
+ &lt;a class="heading-link" href="#other">
+ &lt;span class="sr-only">🔗&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>I like &lt;code>Erlang&lt;/code>, &lt;code>Lisp&lt;/code>, and &lt;a href="https://elm-lang.org/" class="external-link" target="_blank" rel="noopener">Elm&lt;/a>, but have yet do build something meaningful with either of those.&lt;/li>
+&lt;li>I used to write &lt;code>C#&lt;/code> for a living, but have moved away from it years ago. I still think it&amp;rsquo;s a decent language though, I&amp;rsquo;m just not looking for the corporate working conditions it usually brings along.&lt;/li>
+&lt;li>I also speak some &lt;code>C&lt;/code> and &lt;code>C++&lt;/code>, I like working with embedded or distributed systems, I love baking my own pizza and I enjoy a good dram of single malt Whisky.&lt;/li>
+&lt;/ul></description></item></channel></rss>
