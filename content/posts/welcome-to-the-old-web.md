@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 2025-01-13T14:21:31+01:00
+date = 2025-01-12T14:21:31+01:00
 title = "Welcome to the old web"
 description = "Not everything used to be worse."
 slug = "welcome-to-the-old-web"

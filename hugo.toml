@@ -21,6 +21,7 @@ dateFormat = "January 2, 2006"
 since = 2023
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
 rtl = false
+fivetwelfkbclub = true
 colorScheme = "dark"
 # Hide the toggle button, along with the associated vertical divider
 hideColorSchemeToggle = true
