@@ -3,12 +3,13 @@
 For more information, see [here](https://uses.tech/).
 
 ## Operating Systems
-- [*I use Arch by the way*](https://i.redd.it/yf4j8mde9n341.jpg), mainly because for me, it is the best compromise between ease of use and being able to setup a small console system with minimal dependencies. I also appreciate the bleeding edge and AUR stuff, though it can cause problems.
-- Lately though, I've been toying with the idea of exploring [Nix](https://nixos.org/) or [FreeBSD](https://www.freebsd.org/).
+- [*I use Arch by the way*](https://i.redd.it/yf4j8mde9n341.jpg), mainly because for me, it is the best compromise between ease of use and being able to setup a small console system with minimal dependencies. I also appreciate the bleeding edge and AUR stuff.
+- Lately though, I've been toying with the idea of exploring [Nix](https://nixos.org/) or [FreeBSD](https://www.freebsd.org/), but for gaming under Linux, Arch has proven very valuable.
 
 ## Hardware
 - i7-12700K, mostly because it was still the best option for single core performance when it came out.
-- GeForce 1080 TI, because it simply won't break.
+- ~GeForce 1080 TI, because it simply won't break.~
+- AMD 9070XT, because it offered the best bang for the buck, and I didn't fancy waiting another 2 years for another disappointing release. Local LLM, here I come.
 - ASUS TUF GAMING Z690-PLUS WIFI D4, for those sweet gaming benefits and RGBlingbling.
 - 64GB of RAM, because have you tried to run Zoom, Discord, Slack and Chrome at the same time?
 - Fractal Design Define 7, because I love their aesthetic.
@@ -22,7 +23,8 @@ For more information, see [here](https://uses.tech/).
 - `neovim`, ~because I'm a masochist~ because `emacs` is simply too much for my endevours. I used to run my own setup, but have lately moved on to [lazyvim](https://www.lazyvim.org/), mainly because it's fast, highly customizable and I don't have to worry about breaking changes.
 - [yazi](https://github.com/sxyazi/yazi), because midnight commander made my terminal crash more than once.
 - [spotify_player](https://github.com/aome510/spotify-player), because I like not having to pick up the mouse to interact with my listening experience.
-- [Firefox](https://www.mozilla.org/de/firefox/), because I don't like Chrome, and Mozilla has really stepped up their game again over the past 5 years or so. Also, it's basically the only realistic alternative to Chrome (no, webkit does not count).
+- ~[Firefox](https://www.mozilla.org/de/firefox/), because I don't like Chrome, and Mozilla has really stepped up their game again over the past 5 years or so. Also, it's basically the only realistic alternative to Chrome (no, webkit does not count).~
+- [Librewolf](https://librewolf.net/), because Mozilla has started to to irritate me by putting too much focus on everything else except the browser. With librewolf, I get a browser that is focused on privacy and security, while still being able to use all the plugins I need.
 - [Chromium](https://www.chromium.org/), because some of the pages I need to use for work are simply not compatible with Firefox. Looking at you there, [Figma](https://www.figma.com)...
 - [Obsidian](https://obsidian.md/), because I like the idea of having my notes in a markdown format that I can easily access and edit with any text editor. The plugin support is fcantastic, but I'm still looking for a reliable way to sync across devices, especially IOS.
 - [Godot](https://godotengine.org/), because I like the open source approach, as well as the community. 
@@ -32,6 +34,7 @@ For more information, see [here](https://uses.tech/).
 
 - [Go](https://go.dev/), because it's easy to pick up and enables me to program in a large variety of paradigms. It's well supported and I get shit done.
 - [Rust](https://www.rust-lang.org/), because I like a language that prevents me from doing stupid things.
+- `C`, because I like the low level features and simplicity.
 - [htmx](https://htmx.org/) and [alpine.js](https://alpinejs.dev/) for frontend stuff, because it feels like the best compromise between feature rich, modern web development while keeping bloat to an absolute minimum. Also, HATEOAS just reminds me of my youth, before someone decided JS was a great idea for backends.
 - `python` for everything else, mostly because you cannot escape it these days.
 

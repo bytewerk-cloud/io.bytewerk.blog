@@ -11,8 +11,6 @@ externalLink = ""
 series = []
 +++
 
-# Welcome to the old web
-
 Recently, I came across [this beautiful blog post](https://rknight.me/blog/the-web-is-fantastic/) by *Robb Knight*, the idea of which I immediately subscribed to. I still vividly remember critizising the *Web 2.0* movement when it started to emerge in the late 2000s, and every company suddenly advertising under a facebook link instead of a custom built, unique web experience.
 
 I feel like things have started to shift back towards individual web pages again - slowly, gradually - but nonetheless. It's a movement I embrace, as it requires the publisher to at least undergo a minimum amount of effort to share their thoughts, which in turn should lead to an increase in quality of content.

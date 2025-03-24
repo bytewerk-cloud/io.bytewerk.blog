@@ -4,14 +4,16 @@ For more information, see [here](https://nownownow.com/about).
 
 ## 🙋 Personal
 
-- Started picking up playing the Guitar again, which feels nice. I'm currently learning to play [Black Summer](https://www.youtube.com/watch?v=OS8taasZl8k).
+- Started picking up playing the Guitar again, which feels nice. I'm currently learning to play [Black Summer](https://www.youtube.com/watch?v=OS8taasZl8k) and a couple of songs by [Ghost](https://ghost-official.com/).
 - Getting back into playing Warhammer 40k (yes! the tabletop!) with actual friends in physical stores again.
 - Still moving apartments, setting up our new place, and exploring the new environment.
 
 ### 🎶 Listening
 
-- [John Frusciante - Shadows Collide With People](https://open.spotify.com/album/7BYMJZFCYuGKi2jblMhyxg)
-- [Major Parkinson - A Night at the Library](https://open.spotify.com/album/0xSOJ5d2cGkhtiSa2IXsKB)
+- [Ghost - Spillways](https://www.youtube.com/watch?v=wFxXpPAFnks)
+
+- [John Frusciante - Shadows Collide With People](https://www.youtube.com/watch?v=DkOviT3tuKk)
+- [Major Parkinson - A Night at the Library](https://majorparkinson.bandcamp.com/album/a-night-at-the-library)
 - [Autoheart - Live Me, Live Me, Live Me](https://open.spotify.com/album/5QWWYDyS6B1NocFe8V0tBq)
 
 ### 📕 Reading
@@ -22,7 +24,7 @@ For more information, see [here](https://nownownow.com/about).
 
 ### 🍿 Watching
 
-- [Severance](https://www.imdb.com/title/tt11280740), Season 2 is out soon, don't miss it!
+- [Severance](https://www.imdb.com/title/tt11280740), Season 2 was **fantastic**!
 
 - [Doctor Who](https://www.imdb.com/title/tt0436992/)
 

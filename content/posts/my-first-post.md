@@ -11,8 +11,6 @@ externalLink = ""
 series = []
 +++
 
-# Enforce uniform code formatting across teams
-
 With the rise of language centric formatting tools like `gofmt`, it's become easier than ever to achieve a holistic coding style across team members and projects, avoiding endless warfare over primeval subjective matters like [white space after punctuation](https://xkcd.com/1285/), tabs vs. Spaces, etc... It also combats the cargo cult around style guides promoted by large tech companies (such as the [AirBnB JS Guide](https://github.com/airbnb/javascript)) - although these are still around, they've become much more focused on overall code architecture and idiomatic usage of their governed language.
 
 But how do you enforce the usage of a code formatting tool using a given rule set across a heterogeneous mix of operating systems, code editors, IDEs, shells and personal usage preferences? The most obvious choice that might spring to mind is to encompass this issue as part of your CI pipelines, running your code linting tools before builds and tests - and therefore actively encouraging your team to submit properly formatted code only.
