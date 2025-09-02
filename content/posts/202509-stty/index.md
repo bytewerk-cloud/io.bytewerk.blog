@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 2025-09-02T12:36:31+01:00
+date = 2025-09-02T11:36:31+00:00
 title = "Interactive shell sessions on QNAP"
 description = "How to configure your QNAP NAS to allow for interactive SSH sessions"
 slug = "qnap-stty"
